@@ -1,0 +1,24 @@
+#one {
+  margin: 50px 0px 20px 30px;
+  background-color: beige;
+  color: springgreen;
+  border: solid 3px springgreen;
+  border-radius: 12px;
+  width: 150px;
+  font-size: 20px;
+}
+#two {
+  font-size: 20px;
+  border-radius: 50%;
+  color: white;
+  background-color: springgreen;
+  margin: 0px 0px 20px 30px;
+  border: none;
+}
+#three {
+  font-size: 20px;
+  margin-left: 30px;
+  color: white;
+  background-color: blue;
+  box-shadow: 2px 5px 10px black;
+}
