@@ -1,0 +1,16 @@
+.fonts {
+  font-family: Verdana, 'DejaVu Sans', sans-serif;
+  background-color: salmon;
+}
+.fonts.big {
+  font-size: 24px;
+}
+#greenbg {
+  font-weight: bold;
+  background-color: lightgreen;
+  font-size: 36px;
+}
+#nobg {
+  font-size: 36px;
+  color: blue;
+}
