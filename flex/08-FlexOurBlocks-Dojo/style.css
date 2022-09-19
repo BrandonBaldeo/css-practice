@@ -25,15 +25,15 @@
   height: 200px;
   width: 210px;
   background-color: yellow;
-  margin: 0px auto;
 }
 #advertisement {
   height: 120px;
   width: 660px;
   background-color: purple;
-  margin: 10px auto;
+  margin: 20px auto;
 }
 .row {
   display: flex;
   align-items: flex-start;
+  justify-content: space-evenly;
 }
