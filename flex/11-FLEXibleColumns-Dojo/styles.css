@@ -1,0 +1,23 @@
+.row {
+  display: flex;
+  gap: 8px;
+  margin: 8px;
+  padding: 8px;
+}
+
+.col,
+.col-2,
+.col-3 {
+  flex: 1;
+  background-color: aquamarine;
+  text-align: center;
+  padding: 8px;
+}
+
+.col-2 {
+  flex: 2;
+}
+
+.col-3 {
+  flex: 3;
+}
